@@ -36,7 +36,7 @@ body {
 }
 
 footer {
-  background-color: #808080;
+  background-color: #343a40 !important;
   height: 310px;
   text-align: center;
 }
@@ -51,7 +51,7 @@ footer {
 }
 
 #c {
-  opacity: .8;
+  opacity: 0.8;
 }
 
 canvas {
